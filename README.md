@@ -49,7 +49,7 @@ The model is designed to learn **complementary representations** across modaliti
 ---
 
 ## 📁 Repository Structure
-
+```
 .
 ├── data/
 │ ├── structures/ # PDB and MOL2 files
@@ -74,7 +74,7 @@ The model is designed to learn **complementary representations** across modaliti
 │ └── visualizations/
 │
 └── README.md
-
+```
 
 ---
 
