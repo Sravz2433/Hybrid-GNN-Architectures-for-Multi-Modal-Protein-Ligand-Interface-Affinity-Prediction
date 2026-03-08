@@ -56,18 +56,10 @@ The model is designed to learn **complementary representations** across modaliti
 │ ├── sequences/ # Protein & ligand sequences
 │ └── processed/ # Serialized graph objects
 │
-├── scripts/
-│ ├── preprocess/ # Graph & feature generation
-│ ├── train.py
-│ └── evaluate.py
-│
-├── models/
+├── notebooks/
 │ ├── gnn_layers/
 │ ├── fusion_modules/
 │ └── hybrid_models.py
-│
-├── notebooks/
-│ └── analysis.ipynb
 │
 ├── results/
 │ ├── metrics/
